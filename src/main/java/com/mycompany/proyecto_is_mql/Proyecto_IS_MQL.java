@@ -11,6 +11,6 @@ package com.mycompany.proyecto_is_mql;
 public class Proyecto_IS_MQL {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Cambio de nombre Ver2!");
     }
 }
